@@ -1,0 +1,4 @@
+interface:
+  display_name: "Executive Workday Briefing"
+  short_description: "Daily email, calendar and Slack briefing"
+  default_prompt: "Use $executive-workday-briefing to create a privacy-safe weekday briefing automation for my team."

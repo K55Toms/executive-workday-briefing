@@ -1,0 +1,5 @@
+# Per-person configuration can identify people and internal systems.
+team-config.yml
+team-config.yaml
+private-config/
+.env
